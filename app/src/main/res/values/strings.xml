@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="hint_gmail">Nome:</string>
+    <string name="hint_senha">Sobrenome:</string>
+    <string name="texto_botao_cadastro">Cadastrar</string>
+    <string name="hint_idade">Idade:</string>
+</resources>
